@@ -194,3 +194,11 @@ body.dark nav a {
     background-color: #4a90e2;
     transition: 0.4s ease;
 }
+
+:root{
+    --bg:#f7f8fb;
+    --primary:#2b6cb0;
+    --accent:#ed8936;
+    --muted:#6b7280;
+    --card:#ffffff;
+}
