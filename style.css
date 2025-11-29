@@ -7,7 +7,7 @@
 body {
     font-family: 'Inter', georgia, serif;
     color: #0c0066;
-    background-color: #e6e8ff;
+    background-color: #888caf;
     line-height: 1.6;
     background-size: cover;
     background-repeat: no-repeat;
@@ -193,12 +193,4 @@ body.dark nav a {
 .scroll-bg {
     background-color: #4a90e2;
     transition: 0.4s ease;
-}
-
-:root{
-    --bg:#f7f8fb;
-    --primary:#2b6cb0;
-    --accent:#ed8936;
-    --muted:#6b7280;
-    --card:#ffffff;
 }
